@@ -1,4 +1,4 @@
-package com.timing.qywx.demo;
+package com.lyz.file;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Administrator
  */
 @SpringBootApplication
-public class DemoApplication {
+public class FileApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(FileApplication.class, args);
     }
 
 }
