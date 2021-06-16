@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: file
+  profiles:
+    active: dev
+server:
+  port: 9001
