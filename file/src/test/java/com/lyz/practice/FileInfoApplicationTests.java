@@ -1,10 +1,10 @@
-package com.lyz.file;
+package com.lyz.practice;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class FileApplicationTests {
+public class FileInfoApplicationTests {
 
     @Test
     public void contextLoads() {

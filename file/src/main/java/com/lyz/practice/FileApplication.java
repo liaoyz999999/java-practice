@@ -1,4 +1,4 @@
-package com.lyz.file;
+package com.lyz.practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
